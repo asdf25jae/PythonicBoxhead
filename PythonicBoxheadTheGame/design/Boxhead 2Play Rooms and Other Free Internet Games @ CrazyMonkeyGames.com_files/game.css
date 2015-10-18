@@ -1,0 +1,163 @@
+div#sec-content {
+	width:  230px;
+}
+div#main-content {
+	width:  750px;
+}
+div#internal-updates {
+	width: 420px;
+}
+ol#game-ranking li {
+
+}
+span.player-number {
+	font-size: 70%;
+	margin-bottom:5px;
+	float:  right;
+	padding-top:  4px;
+	padding-right: 10px;
+}
+ul.recommend {
+
+}
+div#game-info {
+	float: left;
+	margin-left:  40px;
+	margin-bottom: 20px;
+	padding:  20px;
+	width:  330px;
+	background: #ddd;
+
+
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+p.playnow {
+	text-align: center;
+	font-size: 120%;
+	margin-top: -15px;
+}
+#ranking-update {
+	float: left;
+}
+li.title {
+	font-weight:  bold;
+	font-size:  120%;
+}
+ul.info li {
+	padding-top:  1em;
+}
+ 
+ul.recommend li {
+	display: block;
+	float: left;
+	width:  32%;
+	margin-right: 10px;
+	padding-bottom: 50px;
+}
+ul.recommend li img.game-icon {
+	float: left;
+	background:  #fff;
+	padding:  3px;
+	margin-right: 5px;
+}
+ul.recommend li p.description{
+    padding-top: 20px;
+    font-size: 90%;
+}
+ul.recommend span.game-ratings {
+	display:  block;
+
+
+}
+ul.recommend span.game-ratings img {
+	padding: 0;
+ 
+}
+#rank-select {
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	}
+ul#game-controls {
+	margin-top: -10px;
+	background: #ddd;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomleft: 10px; 
+	-webkit-border-bottom-left-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	padding:  3px;
+	padding-left: 15px;	
+}
+ul#game-controls li {
+	display:  block;
+	padding: 2px 9px;
+	float: left;
+	clear: right;
+
+}
+#controls { cursor: pointer; }
+#controls:hover { color: #3399CC; }
+span.button {
+	font-weight:  bold;
+}
+ul#tags {
+	margin-top:  20px;
+	float:  left;
+	clear:  left;
+}
+ul#tags li {
+	display:  block;
+	float: left;
+	margin: 2px;
+	color: #f3f0eb;
+
+	background-color: rgb(0,77,149);
+	-moz-border-radius: 10px; 
+	-webkit-border-radius: 10px;
+	padding: 1px 7px;
+ 
+}
+ul#tags li a {
+		color:  #f3f0eb;
+}
+ul#tags li:hover {
+	background-color: rgb(241,153,0);
+}
+.game-rating {
+
+	}
+span.game-support {
+	display: block;
+	padding-right: 10px;
+	float: right;
+    padding-top: 2px;
+	height: 30px;
+    font-size: 10px;
+	color: rgb(0,78,151);
+}
+
+
+
+div#top-navigation,
+div#content-area,
+div#branding  {
+	width:  1018px;
+	margin:  0 auto;
+	border-right:  1px solid rgb(0,57,100);
+	border-left:  1px solid rgb(0,57,100);
+}
+
+
+/* adsense compliance changes - 5/10/11 */
+div.spacer { height: 15px; }
+div#top-navigation, div#content-area, div#branding { width: 1118px; }
+div#content-wrapper { width: 1065px; }
+
+
+/* margin for below-game ad stuff */
+#belowGameAd { margin-top: 90px; }
+#belowGameAd .nonAdsenseAd { margin-top: -90px; }
+
+
+

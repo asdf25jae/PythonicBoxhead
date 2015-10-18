@@ -1,0 +1,10 @@
+/*
+Title       Base CSS Loader
+Author      Michael Kumm
+Based On    Dan Cederholm dan@simplebits.com
+*/
+
+/* import stylesheets and hide from IE/Mac \*/
+@import url("reset.css");
+@import url("master.css");
+/* end import/hide */
